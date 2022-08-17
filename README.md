@@ -1,6 +1,6 @@
 <h1>Hello there! I'm Fred</h1>   
 
-I’m a Developer interested in building cool things. Currently I am working mainly on MERN stack projects. Also, I am working as a freelancer Fullstack Web Developer.
+I’m a Developer interested in building cool things. Currently I am working mainly on MERN stack projects. Currently working as Senior Fullstack Engineer @ Impulso Network.
 
 Want to know more about me? 
 
