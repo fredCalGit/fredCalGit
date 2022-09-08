@@ -1,8 +1,8 @@
 <h1>Hello there! I'm Fred</h1>   
 
-I’m a Developer interested in building cool things. Currently I am working mainly on MERN stack projects. Currently working as Senior Fullstack Engineer @ Impulso Network.
+I’m a Developer interested in building things. Currently working @ Impulso Network.
 
-Want to know more about me? 
+
 
 <h3><a href="https://www.fredcal.com">www.fredcal.com</a></h3>
   <p>
@@ -13,12 +13,13 @@ Want to know more about me?
     
   </p>
 
-## My 2021's most used tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+## Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-SaSS-informational?style=flat&logo=sass&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=ffffff)
