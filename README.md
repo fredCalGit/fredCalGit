@@ -1,6 +1,6 @@
-<h1>Hello there! I'm Fred</h1>   
+<h1>I'm Fred</h1>   
 
-I’m a Developer interested in building things. Currently working @ Impulso Network.
+I’m interested in building things. Currently working @ Impulso Network.
 
 
 
