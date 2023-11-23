@@ -1,6 +1,6 @@
 <h1>I'm Fred</h1>   
 
-I’m interested in building things. Currently working @ Impulso Network.
+I’m interested in building things. Currently working @ Stefanini.
 
 
 
